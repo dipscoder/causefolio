@@ -52,7 +52,7 @@
     "chart.js": "^2.9.3",
     "clsx": "^1.1.0",
     "date-fns": "^2.22.1",
-    "firebase": "^7.19.1",
+    "firebase": "^8.6.7",
     "history": "^4.10.1",
     "immer": "^8.0.1",
     "js-cookie": "^2.2.1",
