@@ -74,7 +74,7 @@
     "react-chartjs-2": "^2.9.0",
     "react-dom": "^16.13.1",
     "react-draft-wysiwyg": "^1.14.4",
-    "react-dropzone": "^10.2.2",
+    "react-dropzone": "^11.3.4",
     "react-feather": "^2.0.3",
     "react-helmet": "^6.1.0",
     "react-images-upload": "^1.2.8",
